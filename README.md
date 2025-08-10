@@ -68,7 +68,8 @@ GOOGLE_API_KEY=your_gemini_api_key
 - **Compressed JSON** (Long text) - Copy of applicant data
 - **Score Reason** (Long text) - Detailed evaluation reasoning
 
-## Script Documentation
+## Script Documentation(All scripts are local. Airtable-embedded scripts are a premium feature)
+## Scripts are available at https://github.com/DaErudite/airtable-exercise/
 
 ### 1. Data Compression (`compress_data.py`)
 
